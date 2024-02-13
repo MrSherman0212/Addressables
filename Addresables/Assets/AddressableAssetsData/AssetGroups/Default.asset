@@ -21,13 +21,7 @@ MonoBehaviour:
     m_Address: PersistentScene
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Scene
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f52df4931e1a24e27886e034a122b84a
-    m_Address: LoadingScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f716bca5c177446bf9cae5c9fd98167a, type: 2}

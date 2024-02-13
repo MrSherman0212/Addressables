@@ -21,8 +21,25 @@ MonoBehaviour:
     m_Address: GameScene
     m_ReadOnly: 0
     m_SerializedLabels:
-    - GamePlay
-    - Scene
+    - SampleScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc7653d85eddf43f4b1a89d34b359156
+    m_Address: Assets/Project/Asset/king.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38cb60c5daaad4579808f60a123608e8
+    m_Address: Assets/Project/Asset/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e2afd746fc614c80b22d178b7c44287
+    m_Address: Assets/Project/Asset/finall03_Blur.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SampleScene
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f716bca5c177446bf9cae5c9fd98167a, type: 2}
