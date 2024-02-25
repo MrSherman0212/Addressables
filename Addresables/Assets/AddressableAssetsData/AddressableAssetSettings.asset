@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 52a0d76ba1f1246d6a51d07349c54e2e
   m_currentHash:
     serializedVersion: 2
-    Hash: 48c66a542ea0a0ba67d5ef1cf862d505
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -45,6 +45,7 @@ MonoBehaviour:
   m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
   m_GroupAssets:
   - {fileID: 11400000, guid: 6e9d6f3eeaf7240cbb6fc91d452b5845, type: 2}
+  - {fileID: 11400000, guid: b7e5285ada8f94080a9cc34ebe56eb41, type: 2}
   - {fileID: 11400000, guid: 28a947647547546e4abaa5a1b4d53e38, type: 2}
   - {fileID: 11400000, guid: 5853f0a05661f4870989a4250e111771, type: 2}
   m_BuildSettings:
@@ -87,8 +88,9 @@ MonoBehaviour:
     m_ProfileVersion: 1
   m_LabelTable:
     m_LabelNames:
-    - default
-    - SampleScene
+    - Scene
+    - Prefab
+    - Texture
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: bb0517958525d467989bc1bada607b8b, type: 2}
